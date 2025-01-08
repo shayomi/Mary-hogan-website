@@ -82,7 +82,7 @@ const Portfolio = () => {
                 {selectedTab === "UIUX" ? "" : ""}
                 {selectedTab !== "UIUX" && (
                   <a href={portfolio.github}>
-                    <Button variant="default">Github</Button>
+                    <Button variant="default">Behance</Button>
                   </a>
                 )}
               </div>

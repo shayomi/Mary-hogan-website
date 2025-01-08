@@ -97,20 +97,20 @@ const Services = () => {
         >
           <motion.div className=" basis-full sm:basis-6/12 py-12 space-y-6 ">
             <motion.h1 className="text-background text-[24px] sm:text-[36px] md::text-[48px] ">
-              Visual Designs
+              VISUAL DESIGNS
             </motion.h1>
             <div className=" hidden md:flex flex-col space-y-6">
               <h1 className="text-background text-[24px] sm:text-[36px] md::text-[48px] opacity-55 ">
-                WEB DEVELOPMENT
+                VISUAL DESIGNS
               </h1>
               <h1 className="text-background text-[24px] sm:text-[36px] md::text-[48px] opacity-35 ">
-                WEB DEVELOPMENT
+                VISUAL DESIGNS
               </h1>
               <h1 className="text-background text-[24px] sm:text-[36px] md::text-[48px] opacity-15 ">
-                WEB DEVELOPMENT
+                VISUAL DESIGNS
               </h1>
               <h1 className="text-background text-[24px] sm:text-[36px] md::text-[48px] opacity-5 ">
-                WEB DEVELOPMENT
+                VISUAL DESIGNS
               </h1>
             </div>
           </motion.div>
@@ -122,11 +122,13 @@ const Services = () => {
               exit={"show"}
               className="text-background"
             >
-              Unlock your digital potential with my expert web development
-              services. From sleek designs to seamless functionality, I
-              specialize in crafting custom solutions tailored to your needs.
-              Trust me to elevate your online presence and captivate your
-              audience. Let&apos;s build your digital masterpiece together.
+              I am a passionate and creative visual designer with 3 years of
+              experience crafting visually compelling designs that captivate and
+              communicate effectively. I specialize in blending aesthetics with
+              functionality to create designs that tell a story, engage
+              audiences, and elevate brand identities. My expertise spans
+              digital and print media, ensuring every project is tailored to its
+              unique audience and purpose.
             </motion.h2>
 
             <motion.ul className="block list-disc text-background mt-8 space-y-5">
@@ -136,8 +138,8 @@ const Services = () => {
                 whileInView={"show"}
                 exit={"show"}
               >
-                Tailored web solutions, from design to implementation, ensuring
-                a personalized online presence.
+                Brand Identity Design: Crafting logos, color palettes, and
+                visual guidelines to establish cohesive brand identities.
               </motion.li>
               <motion.li
                 variants={fadeIn("right", "spring", 0.4, 0.4)}
@@ -145,8 +147,8 @@ const Services = () => {
                 whileInView={"show"}
                 exit={"show"}
               >
-                Specializing in seamless user experiences and responsive designs
-                for optimal engagement.
+                UI/UX Design: Designing intuitive and engaging interfaces for
+                websites and mobile applications.
               </motion.li>
               <motion.li
                 variants={fadeIn("right", "spring", 0.6, 0.4)}
@@ -154,8 +156,8 @@ const Services = () => {
                 whileInView={"show"}
                 exit={"show"}
               >
-                Expertise in maximizing accessibility and engagement across all
-                devices for a cohesive digital experience.
+                Graphic Design: Producing high-quality visuals for marketing
+                campaigns, social media, and print materials.
               </motion.li>
             </motion.ul>
           </motion.div>

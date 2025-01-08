@@ -52,12 +52,6 @@ export default function PortfolioTabs({
     <>
       <menu id="tabs" className="flex gap-4 mb-4">
         <Tab
-          isSelected={selectedType === "website"}
-          onSelect={() => onSelectType("website")}
-        >
-          Website Portfolio
-        </Tab>
-        <Tab
           isSelected={selectedType === "UIUX"}
           onSelect={() => onSelectType("UIUX")}
         >

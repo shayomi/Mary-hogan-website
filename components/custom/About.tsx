@@ -96,10 +96,13 @@ const About = () => {
         className=" flex justify-end mt-[-12px] w-full sm:w-[90%] px-12 mx-auto pb-24"
       >
         <Typography variant="p" className="text-background ">
-          Throughout my career, I&apos;ve collaborated with leading
-          organizations like Techclout Africa, Run Technology, Nexapluxe, and
-          Future Africa, honing my skills in JavaScript, HTML/CSS, React.js,
-          Next.js, Tailwind CSS, TypeScript, and Node.js.
+          I am a seasoned UI/UX and visual designer with a master&apos;s degree
+          in UX and over 3 years of experience crafting user-centered, visually
+          engaging designs. Proficient in tools like Figma and Adobe Creative
+          Suite, I specialize in creating intuitive interfaces and seamless
+          experiences for web and mobile platforms. My work blends creativity
+          with strategy, focusing on usability, innovation, and impactful
+          visuals to meet and exceed user expectations.
         </Typography>
       </motion.div>
     </>

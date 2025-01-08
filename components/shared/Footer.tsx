@@ -12,7 +12,7 @@ const Footer = () => {
         <div className="flex flex-col sm:flex-row gap-12 sm:gap-8 xl:gap-12 justify-between pb-12">
           <div className="sm:max-w-[220px] lg:max-w-[290px] xl:max-w-[350px]">
             <img
-              src="/images/footer-logo.svg"
+              src="/images/marylogofooter.svg"
               alt="my Logo"
               className="w-[400px]"
             />

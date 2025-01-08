@@ -17,12 +17,8 @@ interface SocialMedia {
 
 export const socialData: SocialMedia[] = [
   { href: "https://wa.link/37lp8a", icon: FaWhatsapp },
-  { href: "https://github.com/shayomi", icon: FaGithub },
-  {
-    href: "https://www.instagram.com/shayomiiii_designs?igsh=MWI4djBwdWo3MG1pdw%3D%3D&utm_source=qr",
-    icon: FaInstagram,
-  },
-  { href: "https://www.behance.net/shayomidesigns", icon: FaBehance },
+
+  { href: "https://www.behance.net/maryhogan_designs", icon: FaBehance },
   {
     href: "https://www.linkedin.com/in/sayo-adegoroye-41b28064?",
     icon: FaLinkedinIn,
@@ -40,60 +36,18 @@ export const heroData = [
 
 export const portfolioData = [
   {
-    icon: "/images/cinevideo.png",
-    title: "CINE ",
-    tags: "Video Conference App",
-    website: "http://cinevideo.vercel.app",
-    github: "https://github.com/shayomi/cine",
+    icon: "/images/alpha.png",
+    title: "ALPHA BANK ",
+    tags: "Fintech App",
+    website: "https://www.behance.net/gallery/194825815/UIUX-CASE-STUDY",
+    github: "https://www.behance.net/gallery/194825815/UIUX-CASE-STUDY",
   },
   {
-    icon: "/images/eventspaces.png",
-    title: "EventSpace ",
+    icon: "/images/stitch.png",
+    title: "learning App ",
     tags: "Social App",
-    website: "http://eventspaces.vercel.app",
-    github: "https://github.com/shayomi/Eventspace",
-  },
-  {
-    icon: "/images/janesweb.png",
-    title: "Janes Auction ",
-    tags: "Ecommerce",
-    website: "https://janes.vercel.app",
-    github: "https://github.com/shayomi/Janes-Auction-webapp",
-  },
-  {
-    icon: "/images/genteeecos.png",
-    title: "Gentee Cosmestics ",
-    tags: "Ecommerce",
-    website: "https://genteecosmestics.vercel.app",
-    github: "https://github.com/shayomi/makeup",
-  },
-  {
-    icon: "/images/savetown.png",
-    title: "Savetown ",
-    tags: "Fintech",
-    website: "https://savetown.com",
-    github: "https://github.com/Savetown/savetown-website-fe",
-  },
-  {
-    icon: "/images/accelerate-africa.png",
-    title: "Accelerate Africa ",
-    tags: "Information App",
-    website: "http://acceler8.africa",
-    github: "https://github.com/shayomi/accelerate-website-develop",
-  },
-  {
-    icon: "/images/capitalstatefarm.png",
-    title: "Capital State Farm ",
-    tags: "Information App",
-    website: "https://capitalstatefarm.com",
-    github: "https://github.com/shayomi/capital-state-farm",
-  },
-  {
-    icon: "/images/spinbet.png",
-    title: "Spinbet",
-    tags: "Betting App",
-    website: "https://spinzbet.web.app/",
-    github: "https://github.com/shayomi/Spinbet",
+    website: "https://www.behance.net/gallery/194844615/STITCH-E-LEARNING-APP",
+    github: "https://www.behance.net/gallery/194844615/STITCH-E-LEARNING-APP",
   },
 ];
 
@@ -158,10 +112,10 @@ export const navData = [
 
 export const reviewData = [
   {
-    avatar: "/images/seun.jpeg",
-    name: "Seun Akoyon",
+    avatar: "/images/about-img.png",
+    name: "Sayo Adegoroye",
     review:
-      "Sayomi is an amazing developer who is very diligent and keep to time. We have worked on quite a lot of projects together and he never disappoints.His web designs are topnotch, easy to navigate and interactive",
+      "Mary is an amazing designer who is very diligent and keep to time. We have worked on quite a lot of projects together and he never disappoints.His web designs are topnotch, easy to navigate and interactive",
   },
   {
     avatar: "/images/conah.jpeg",
