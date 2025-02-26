@@ -35,7 +35,7 @@ const Intro = () => {
             whileHover={{ scale: 1.1 }}
             transition={transition1}
           >
-            Hi there
+            Hello there
           </motion.h2>
           <motion.h2
             className="text-[36px]"
